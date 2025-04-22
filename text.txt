@@ -1,0 +1,53 @@
+4
+Lover
+Taylor Swift 
+2019
+images/taylor.jpg
+4
+Lover
+./album/lover.mp3
+Cruel Summer
+./album/cruelsummer.mp3
+I Think He Knows
+./album/ithinkheknows.mp3
+Daylight
+./album/daylight.mp3
+Speak Your Mind
+Anne Marie
+2018
+images/anne.jpg
+4
+Alarm 
+./album/alarm.mp3
+Trigger
+./album/trigger.mp3
+Friends
+./album/friends.mp3
+2002
+./album/2002.mp3
+Astrid.S 2022
+Astrid.S
+2022
+images/astrid.png
+4
+Hurts So Good
+./album/hurtssogood.mp3
+Pretty
+./album/pretty.mp3
+Can't Forget
+./album/cantforget.mp3
+I Don't Know Why
+./album/idontknowwhy.mp3
+Happier Than Ever
+Billie Eilish 
+2021
+images/billie.jpg
+4
+Getting Older
+./album/gettingolder.mp3
+Therefore I Am 
+./album/thereforeiam.mp3
+I Didn't Change My Number 
+./album/ididntchangemynumber.mp3
+Not My Responsibility 
+./album/notmyresponsibility.mp3
